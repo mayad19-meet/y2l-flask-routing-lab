@@ -1,1 +1,4 @@
-/* Put your CSS Styling here! */
+body {
+	background-image: url("./Mickey-Mouse1.jpg");
+	text-color: red;
+}
